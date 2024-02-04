@@ -1,14 +1,12 @@
 .container {
-    border-radius: 10px;
-    background-color: rgb(214, 219, 224);
-    padding: 40px;
-    display: flex;
+  padding: 40px;
+  display: flex;
   flex-direction: column;
   gap: 30px;
 }
 .phoneBookTitle {
-    font-size: 20px;
+  font-size: 20px;
 }
 .contactTitle {
-    font-size: 16px;
+  font-size: 16px;
 }
